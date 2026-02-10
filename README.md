@@ -1,86 +1,98 @@
-# Developer Portfolio Template 🚀
+# Ruban S – Developer Portfolio 🚀
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## What is this?
+## 👋 About This Portfolio
 
-This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
+This is my **personal developer portfolio**, built to showcase my projects, skills, and experience as a **Full Stack Engineer**.
 
-View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
+🔗 **Live Demo:**  
+👉 https://rubans637.github.io/Portfolio
 
-**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
+---
 
-![screenshot](./src/assets//images/screenshot.png)
+## ✨ Features
 
-## Features
+✅ Responsive & mobile-friendly design  
+✅ Dark & light mode support  
+✅ Clean, modern UI  
+✅ Built with React, TypeScript, JavaScript & SCSS  
+✅ Easy to customize and extend  
 
-✅ Open source (free to use, no attribution required)  
-✅ Responsive design & mobile-friendly  
-✅ Supports both dark and light modes  
-✅ Highly customizable multi-component layout  
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
+---
 
-## Quick Setup
+## ⚙️ Getting Started
 
-1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
+### 1️⃣ Prerequisites
+Make sure **Node.js** is installed:
+```bash
+node -v
+2️⃣ Install Dependencies
+npm install
 
-    ```bash
-    node -v
-    ```
+3️⃣ Start Development Server
+npm start
 
-2. In the project directory, install dependencies:
 
-    ```bash
-    npm install
-    ```
+Open:
 
-3. Start the development server:
+http://localhost:3000
 
-    ```bash
-    npm start
-    ```
+🛠 Customization
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+You can edit your details here:
 
-5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
+src/components/
 
-The page will reload if you make edits, and you will see any lint errors in the console.
 
-If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
+Name
 
-## Deployment
+Profile image
 
-You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
+Social links
 
-1. **Set Up GitHub Repository**
+Projects
 
-    Create a new repository on GitHub for your portfolio app.
+Skills
 
-2. **Configure `package.json`**
+Experience
 
-    Edit the following properties in your `package.json` file:
+Images & styles:
 
-    ```json
-    {
-        "homepage": "https://yourusername.github.io/your-repo-name",
-        "scripts": {
-            "predeploy": "npm run build",
-            "deploy": "gh-pages -d build",
-            ...
-        }
-    }
-    ```
+src/assets/
 
-    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
+🚀 Deployment (GitHub Pages)
+1️⃣ Update package.json
+{
+  "homepage": "https://rubans637.github.io/Portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
 
-3. **Deploy to GitHub Pages**
+2️⃣ Deploy
+npm run deploy
 
-    Run the following command to deploy your app:
+3️⃣ Live URL
 
-    ```bash
-    npm run deploy
-    ```
+After deployment:
 
-4. **Access Your Deployed App**
+https://rubans637.github.io/Portfolio
 
-    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
+📸 Mockups
+
+For browser & device mockups, try:
+👉 https://gemoo.com/tools/browser-mockup-generator/
+
+📬 Contact
+
+GitHub: https://github.com/rubans637
+
+LinkedIn: https://www.linkedin.com/in/s-ruban

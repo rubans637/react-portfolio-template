@@ -16,50 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2021 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Vettaiyan Gaming</h3>
+            <h4 className="vertical-timeline-element-subtitle">Youtube</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Editor, Content Creator , Video Strategist, and Community Manager for a gaming channel with 1.5L+ subscribers, specializing in PC and mobile gaming content, including gameplay recording, live streaming, and short-form reels.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="2025 - Present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Full Stack Course</h3>
+            <h4 className="vertical-timeline-element-subtitle">Nxtwave Acadamey</h4>
             <p>
               Frontend Development, Backend Development, User Experience, Team Leading
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2021 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">B.Tech in Computer Science And Business Systems @PSNA COLLEGE</h3>
+            <h4 className="vertical-timeline-element-subtitle">Dindigul,TamilNadu</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Google Cloud, Database Management, Project Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2020 - 2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">CSC</h3>
+            <h4 className="vertical-timeline-element-subtitle">Theni,TamilNadu</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              C, C++, Java
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
